@@ -24,15 +24,15 @@ After you've ran the script Active Directory will have a new Orginizational Unit
 
 <p align="center">
 Before: <br/>
-<img src="https://imgur.com/gallery/q7CZpil" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MgN0OCy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Creating User with PowerShell:  <br/>
-<img src="https://imgur.com/a/SaCibdl" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JUkmc4Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 After:  <br/>
-<img src="https://imgur.com/QmrCHBd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QmrCHBd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
