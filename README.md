@@ -15,7 +15,6 @@ Creates a user in Active Directory with a randomly generated username.
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
 - <b>Windows Server 2022</b>
 
 <h2>Program walk-through:</h2>
